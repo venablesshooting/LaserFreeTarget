@@ -6,3 +6,6 @@ Pellet diameter: 4.5mm
 Pellet length: 5.56mm
 Pellet Speed: 150mm/s
 Time in Beam: 37ms
+
+37/8 = 4.625ms
+
